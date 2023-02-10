@@ -131,7 +131,7 @@ body{
 #home::before{
     content: "";
     position: absolute;
-    background: url('../img/bg.jpg') center center/cover;
+    background: url('./bg.jpg') center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -228,7 +228,7 @@ body{
 #contact::before{
     content: "";
     position: absolute;
-    background:  url(../img/contact.jpg)center center/cover;
+    background:  url(./contact.jpg)center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
